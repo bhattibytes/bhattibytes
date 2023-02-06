@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/bhattibytes" target="blank"><img src="https://img.shields.io/twitter/follow/bhattibytes?logo=twitter&style=for-the-badge" alt="bhattibytes" /></a> </p>
 
-- 🔭 I’m currently working on [Charla](https://app.charla.cc/)
+- 🔭 I'm currently working at [CyberRisk Alliance](https://www.cyberriskalliance.com/) as the **Lead Software Engineer**
 
-- 🌱 I’m currently learning **Python, Golang and TypeScript**
+- 🌱 I’m currently learning **StoryBookJS**
 
-- 👨‍💻 All of my projects are available at [https://bhattibytes.vercel.app/](https://bhattibytes.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio Website](https://bhattibytes.vercel.app/)
 
-- 📝 I regularly write articles on [https://bhattibytes.wordpress.com/](https://bhattibytes.wordpress.com/)
+- 📝 I regularly write articles on [My Blog](https://bhattibytes.wordpress.com/)
 
 - 💬 Ask me about **React, Next or JavaScript**
 
