@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/bhattibytes" target="blank"><img src="https://img.shields.io/twitter/follow/bhattibytes?logo=twitter&style=for-the-badge" alt="bhattibytes" /></a> </p>
 
-- 🔭 Notably, I served as the Lead Software Engineer at [CyberRisk Alliance](https://www.cyberriskalliance.com/) and previously held the roles of Co-founder, Product & Software Engineer at Charla Technologies Inc. At present, I am actively seeking a full-time software engineering role to further apply and expand my expertise.
+- 🔭 Notably, I served as the Lead Software Engineer at [CyberRisk Alliance](https://www.cyberriskalliance.com/) and previously held the roles of Co-founder, Product & Software Engineer at [Charla Technologies Inc.](https://www.f6s.com/company/charla-technologies-inc#about) At present, I am actively seeking a full-time software engineering role to further apply and expand my expertise.
 
 - 🌱 I’m currently learning **StoryBookJS**,  **LLM Prompt Engineering**, &  **TypeScript**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **bhattibytes@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1zPT2Xt76w6gkfXBsDnSFYHT41eAZRkfxBfRhtMXAoaQ/edit?usp=sharing](https://docs.google.com/document/d/1zPT2Xt76w6gkfXBsDnSFYHT41eAZRkfxBfRhtMXAoaQ/edit?usp=sharing)
+- 📄 Know about my experiences [Resume & Certifcations](https://bhattibytes.vercel.app/About)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
