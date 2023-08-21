@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **StoryBookJS**,  **LLM Prompt Engineering**, &  **TypeScript**
 
-- 👨‍💻 All of my projects are available at [My Portfolio Website](https://bhattibytes.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio Website](https://bhattibytes.vercel.app/Applications)
 
 - 📝 I regularly write articles on [My Blog](https://bhattibytes.wordpress.com/)
 
