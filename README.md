@@ -12,6 +12,8 @@
 
 - 👨‍💻 All of my projects are available at [Applications page of my portfolio website](https://bhattibytes.vercel.app/Work)
 
+- Check out my new TrackChat App - [TrackChat App]([https://bhattibytes.vercel.app/Work](https://ably-hackathon.vercel.app/))
+
 - 📝 I regularly write articles on [My Blog](https://bhattibytes.wordpress.com/)
 
 - 💬 Ask me about **React, Next or JavaScript**
