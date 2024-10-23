@@ -8,7 +8,7 @@
 
 - 🔭 Most notably, I served as the Lead Software Engineer at [CyberRisk Alliance](https://www.cyberriskalliance.com/) and previously held the roles of Co-founder, Product & Software Engineer at [Charla Technologies Inc.](https://www.f6s.com/company/charla-technologies-inc#about) At present, I am actively seeking a full-time software engineering role to further apply and expand my expertise.
 
-- 🌱 I’m currently learning **StoryBookJS**,  **LLM Prompt Engineering**, &  **TypeScript**
+- 🌱 I’m currently learning **NestJS**,  **TanStack Query**, &  **LangChain**
 
 - 👨‍💻 All of my projects are available at [Applications page of my portfolio website](https://bhattibytes.vercel.app/Work)
 
