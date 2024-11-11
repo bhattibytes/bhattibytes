@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhattibytes&row=2&column=4" /></a> </p>
 <br/>
 
-- 🔭 Most notably, I served as the Lead Software Engineer at [CyberRisk Alliance](https://www.cyberriskalliance.com/) and previously held the roles of Co-founder, Product & Software Engineer at [Charla Technologies Inc.](https://www.f6s.com/company/charla-technologies-inc#about) At present, I am actively seeking a full-time software engineering role to further apply and expand my expertise.
+- At present, I am working at Alphana.AI as a Founding Full Stack Software Engineer [Alphana.AI](https://www.alphana.ai/) 🔭 Prior to Alphana, I served as the Lead Software Engineer at [CyberRisk Alliance](https://www.cyberriskalliance.com/) and previously held the roles of Co-founder, Product & Software Engineer at [Charla Technologies Inc.](https://www.f6s.com/company/charla-technologies-inc#about) 
 
 - 🌱 I’m currently learning **NestJS**,  **TanStack Query**, &  **LangChain**
 
