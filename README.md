@@ -6,21 +6,22 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhattibytes&row=2&column=4" /></a> </p>
 <br/>
 
-- At present, I am working at Alphana.AI as a Founding Full Stack Software Engineer [Alphana.AI](https://www.alphana.ai/) 🔭 Prior to Alphana, I served as the Lead Software Engineer at [CyberRisk Alliance](https://www.cyberriskalliance.com/) and previously held the roles of Co-founder, Product & Software Engineer at [Charla Technologies Inc.](https://www.f6s.com/company/charla-technologies-inc#about) 
+I’m currently working at [**TheMetaPause**](https://www.themetapause.com/), an AI-powered health platform focused on supporting women through every stage of hormonal health. Most recently, I was a **Founding Full Stack Software Engineer** at [**Alphana.AI**](https://www.alphana.ai/), an AI content platform. Prior to that, I served as the **Lead Software Engineer** at [**CyberRisk Alliance**](https://www.cyberriskalliance.com/), and earlier, I cofounded [**Charla Technologies Inc.**] **Co-founder and Product & Software Engineer** (https://www.f6s.com/company/charla-technologies-inc#about).
+
 
 - 🌱 I’m currently learning **NestJS**,  **TanStack Query**, &  **LangChain**
 
-- 👨‍💻 All of my projects are available at [Applications page of my portfolio website](https://bhattibytes.vercel.app/Work)
+- 👨‍💻 All of my projects are available at [Applications page of my portfolio website](https://www.bhattibytes.com/)
 
 - Check out my new TrackChat App - [TrackChat App](https://ably-hackathon.vercel.app/)
 
-- 📝 I regularly write articles on [My Blog](https://bhattibytes.wordpress.com/)
+- 📝 I regularly write articles on [My Blog](https://www.bhattibytes.com/Blog)
 
-- 💬 Ask me about **React, Next or JavaScript**
+- 💬 Ask me about **AI, React, Next or JavaScript**
 
 - 📫 How to reach me **bhattibytes@gmail.com**
 
-- 📄 Know about my experiences [Resume & Certifcations](https://bhattibytes.vercel.app/About)
+- 📄 Know about my experiences [Resume & Certifcations](https://www.bhattibytes.com/About)
 <br/>
 <p align="center"> <a href="https://twitter.com/bhattibytes" target="blank"><img src="https://img.shields.io/twitter/follow/bhattibytes?logo=twitter&style=for-the-badge" alt="bhattibytes" /></a> </p>
 <h3 align="center">Connect with me:</h3>
