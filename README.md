@@ -6,18 +6,16 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhattibytes&row=2&column=4" /></a> </p>
 <br/>
 
-I’m currently working at [**TheMetaPause**](https://www.themetapause.com/), an AI-powered health platform focused on supporting women through every stage of hormonal health. Most recently, I was a **Founding Full Stack Software Engineer** at [**Alphana.AI**](https://www.alphana.ai/), an AI content platform. Prior to that, I served as the **Lead Software Engineer** at [**CyberRisk Alliance**](https://www.cyberriskalliance.com/), and earlier, I cofounded [**Charla Technologies Inc.**] **Co-founder and Product & Software Engineer** (https://www.f6s.com/company/charla-technologies-inc#about).
+I’m currently working at [**TheMetaPause**](https://www.themetapause.com/), an AI-powered health platform focused on supporting women through every stage of hormonal health. Most recently, I was a **Founding Full Stack Software Engineer** at [**Alphana.AI**](https://www.alphana.ai/), an AI content platform. Prior to that, I served as the **Lead Software Engineer** at [**CyberRisk Alliance**](https://www.cyberriskalliance.com/), and earlier, I cofounded [**Charla Technologies Inc.**] **Co-founder and Product & Software Engineer** (https://www.f6s.com/company/charla-technologies-inc#about). 
 
 
-- 🌱 I’m currently learning **NestJS**,  **TanStack Query**, &  **LangChain**
+- 🌱 I'm currently diving deep into **LLMs**, **LangChain**,**NestJS**, and **TanStack Query**, exploring how they can be combined to build smarter, more responsive applications.
 
 - 👨‍💻 All of my projects are available at [Applications page of my portfolio website](https://www.bhattibytes.com/)
 
-- Check out my new TrackChat App - [TrackChat App](https://ably-hackathon.vercel.app/)
+- 📝 I write articles on [My Blog](https://www.bhattibytes.com/Blog)
 
-- 📝 I regularly write articles on [My Blog](https://www.bhattibytes.com/Blog)
-
-- 💬 Ask me about **AI, React, Next or JavaScript**
+- 💬 Ask me about **AI, React, Next or TypeScript**
 
 - 📫 How to reach me **bhattibytes@gmail.com**
 
